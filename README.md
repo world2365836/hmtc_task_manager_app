@@ -1,5 +1,3 @@
-# hmtc_task_manager_app
-
 hmtc_task_manager_app
 A  web application built with  React frontend and supported by a node backend
 
@@ -15,7 +13,7 @@ npm or yarn
 🛠️ Installation
 1. Clone the repository
 bash
-git clone https://github.com/world2365836/hmtc_task_manager_app.git
+git clone https://github.com/yourusername/project-name.git
 
 2. cd  Frontend_Starter_Repo 
 
