@@ -15,7 +15,7 @@ npm or yarn
 🛠️ Installation
 1. Clone the repository
 bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/world2365836/hmtc_task_manager_app.git
 
 2. cd  Frontend_Starter_Repo 
 
